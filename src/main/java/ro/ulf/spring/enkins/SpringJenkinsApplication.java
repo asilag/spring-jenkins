@@ -17,6 +17,8 @@ public class SpringJenkinsApplication {
 		log.info("Application started ...");
 	}
 
+	// Test purpose
+
 	public static void main(String[] args) {
 		log.info("Application executed ...");
 		log.info("Second time ...");
