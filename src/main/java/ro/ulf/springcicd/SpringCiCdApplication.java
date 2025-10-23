@@ -15,6 +15,6 @@ public class SpringCiCdApplication {
 
     @PostConstruct
     private void postConstruct() {
-        log.info("Application started !!!");
+        log.info("### Application started !!!");
     }
 }
